@@ -1,4 +1,4 @@
-# Apna Spotify
+# Dummy Spotify
 This is a Dummy Spotify using html css javascript, 
 not a full clone,
 not a responsive design,
